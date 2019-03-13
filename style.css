@@ -1,0 +1,253 @@
+body
+{
+	background-color: #eee;
+	font-size: 16px;
+}
+
+.container
+{
+	width:1000px;
+	margin: 0px auto;
+}
+
+
+.segment0
+{
+	border-top: 5px solid black;
+	min-height: 100px;
+	margin: 2.5px;
+}
+
+.header
+{
+	height: 40px;
+}
+
+.head1
+{
+	font-size: 24px;
+	display: inline-block;
+	font-family: arial;
+	font-weight: 700;
+	padding: 5px;
+}
+
+.head2
+{
+	font-size: 14px;
+	display: inline-block;
+	font-family: arial;
+	font-weight: 700;
+	width: 80%;
+	padding: 5px;
+	padding-left: 50px;
+
+}
+
+.segment1
+{
+}
+
+.segment1 h1
+{
+	font-size: 26px;
+}
+
+.title
+{
+	margin: 0px auto;
+	padding: 2.5px;
+	padding-left: 10px;
+	font-family: arial;
+	font-size: 24px;
+	text-align: center;
+	font-weight: 700;
+	width: 80%;
+	padding: 30px;
+}
+
+.pole4
+{
+	display: inline-block;
+	font-weight: 400;
+	font-size: 16px;
+	text-align: left;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button 
+{
+	display: none;
+}
+
+input
+{
+	margin: 2px;
+}
+
+legend
+{
+	font-family: arial;
+	font-size: 14px;
+}
+
+input[type="text"], input[type="tel"]{
+	font-family: arial;
+	background-color: #eee;
+	color: #666;
+	border: 1px solid #ccc;
+	font-size: 15px;
+	box-sizing: border-box;
+	outline: none;
+	width: 50%;
+	min-width: 80px;
+}
+
+
+input[type="text"]:focus, input[type="tel"]:focus
+{
+	box-shadow: 0px 0px 5px 2px rgba(200,200,200,0.9);
+	border: 1px solid #668fff;
+	background-color: #c7c9ffcc;
+	color: #000;
+}
+
+.segment2
+{
+	border: 1.5px solid black;
+	background-color: #ccc;
+	padding: 2.5px;
+}
+
+.segment2 tr
+{
+	border: 1px solid #bbb;
+}
+
+.segment2 table
+{
+	border-collapse: collapse;
+}
+
+.l
+{
+	vertical-align: top;
+	text-align: left;
+	width: 15%;
+}
+
+.p
+{
+	vertical-align: top;
+	text-align: left;
+	width: 85%;
+}
+
+.segment3
+{
+	background-color: #ccc;
+	border:2px solid black;
+	border-top: 5px solid black;
+	margin: 2.5px;
+	min-height: 100px;
+}
+
+.segment3 span
+{
+	padding-left: 50px;
+}
+
+h1
+{
+	margin: 0px;
+	padding: 2.5px;
+	padding-left: 10px;
+	font-family: arial;
+	font-size: 20px;
+}
+
+.pola
+{
+	margin-left: 25px;
+}
+
+.pole
+{
+	border: 1px solid black;
+	min-height: 30px;
+	min-width: 100px;
+	margin: 0px;
+	padding: 0px;
+	background-color:#fff;
+}
+
+.pole1
+{
+	float: left;
+	width: 70%;
+	box-sizing: border-box;
+}
+
+.pole2 , .pole3
+{
+	background-color: #aaa;
+	float: left;
+	width: 15%;
+	box-sizing: border-box;
+}
+
+.pole15 , .pole16 , .pole17 , .pole18 , .pole19 , .pole20 , .pole21 , .pole22 , .pole23 , .pole24 , .pole25 , .pole26 , .pole27
+{
+	float: left;
+	box-sizing: border-box;
+}
+
+.pole15
+{
+	width:40%;
+}
+
+.pole16 , .pole17
+{
+	width:30%;
+}
+
+.pole18
+{
+	width:25%;
+}
+
+.pole19
+{
+	width:40%;
+}
+
+.pole20
+{
+	width:35%;
+}
+
+.pole21
+{
+	width:30%;
+}
+
+.pole22
+{
+	width:49.2%;
+}
+
+.pole23 , .pole24
+{
+	width:10%;
+}
+
+.pole25 , .pole27
+{
+	width:40%;
+}
+
+.pole26
+{
+	width:20%;
+}
